@@ -1,8 +1,8 @@
 # HoriseonOnlineServiceManagement
 University of Utah Boot Camp Week 1 Homework
 
-Original code base supplied to us via Universoty of Utah Code Camp
-** Version 1.0 ***
+# Original code base supplied to us via Universoty of Utah Code Camp
+# ** Version 1.0 ***
 
 # Discussion on what the HTML page is about and who the company is that represents them.
 The code discusses a company called "Horiseon". They deal with items like:
